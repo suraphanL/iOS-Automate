@@ -1,0 +1,27 @@
+PODS:
+  - Socket.IO-Client-Swift (7.0.3)
+  - SVProgressHUD (1.1.3)
+  - SwiftyJSON (2.4.0)
+
+DEPENDENCIES:
+  - Socket.IO-Client-Swift (from `https://github.com/socketio/socket.io-client-swift`,
+    branch `swift2.3`)
+  - SVProgressHUD (~> 1.0)
+  - SwiftyJSON (~> 2.3)
+
+EXTERNAL SOURCES:
+  Socket.IO-Client-Swift:
+    :branch: swift2.3
+    :git: https://github.com/socketio/socket.io-client-swift
+
+CHECKOUT OPTIONS:
+  Socket.IO-Client-Swift:
+    :commit: fdb00d63ffaab83864b06248b08551ac2780213a
+    :git: https://github.com/socketio/socket.io-client-swift
+
+SPEC CHECKSUMS:
+  Socket.IO-Client-Swift: a4d6474309fa82b52736888abe53a75ba33d09a1
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  SwiftyJSON: 96918c1bf505efa50c4f72957018dd3452090c9c
+
+COCOAPODS: 0.39.0
